@@ -21,9 +21,12 @@ from PyQt5.QtWidgets import *
 from PyQt5.QtCore import *
 
 #Kill Old Firefox Instances
-os.system('taskkill /f /im firefox.exe')
-os.system('taskkill /f /im geckodriver.exe')
-os.system('cls')
+try:
+    os.system('taskkill /f /im firefox.exe')
+    os.system('taskkill /f /im geckodriver.exe')
+    os.system('cls')
+except:
+    pass
 
 #Enable Headless
 options = Options()
