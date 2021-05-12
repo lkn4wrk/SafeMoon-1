@@ -228,25 +228,29 @@ class Ui(QMainWindow):
 
     def texts(self, data):
         if isinstance(self.price, float):
-            self.label_5.setText(data + ' SafeMoon' + '  ($' + str(round(float(data) * float(self.price),2)) + ')')
+            value = round(float(data) * float(self.price),2)
+            self.label_5.setText(format(float(data),",") + ' SafeMoon' + '  ($' + str(format(float(value),",")) + ')')
         else:
             self.label_5.setText(data + ' SafeMoon')
 
     def texts1(self, data):
         if isinstance(self.price, float):
-            self.label_6.setText(str(round(float(data),3)) + ' SafeMoon/Reflection' + '  ($' + str(round(float(data) * float(self.price),2)) + ')')
+            value = round(float(data) * float(self.price),2)
+            self.label_6.setText(str(round(float(data),3)) + ' SafeMoon/Reflection' + '  ($' + str(format(float(value),",")) + ')')
         else:
             self.label_5.setText(data + ' SafeMoon')
 
     def texts2(self, data):
         if isinstance(self.price, float):
-            self.label_7.setText(data + ' SafeMoon' + '  ($' + str(round(float(data) * float(self.price),2)) + ')')
+            value = round(float(data) * float(self.price),2)
+            self.label_7.setText(format(float(data),",") + ' SafeMoon' + '  ($' + str(format(float(value),",")) + ')')
         else:
             self.label_5.setText(data + ' SafeMoon')
 
     def texts3(self, data):
         if isinstance(self.price, float):
-            self.label_8.setText(data + ' SafeMoon' + '  ($' + str(round(float(data) * float(self.price),2)) + ')')
+            value = round(float(data) * float(self.price),2)
+            self.label_8.setText(format(float(data),",") + ' SafeMoon' + '  ($' + str(format(float(value),",")) + ')')
         else:
             self.label_5.setText(data + ' SafeMoon')
 
