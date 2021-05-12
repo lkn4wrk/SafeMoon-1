@@ -1471,3 +1471,343 @@ JavaScript warning: https://pagead2.googlesyndication.com/bg/DyQI0nSy6BUFz1wbhNn
 * Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
 JavaScript warning: https://pagead2.googlesyndication.com/bg/DyQI0nSy6BUFz1wbhNnw1YMoJJCDSr_iJxDmlzQsBeQ.js line 1 > eval line 2283 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
 * Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1620768427233	geckodriver	INFO	Listening on 127.0.0.1:54744
+1620768430278	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Nightly\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jesse\\AppData\\Local\\Temp\\rust_mozprofileRU1tCw"
+*** You are running in headless mode.
+1620768430629	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jesse\\AppData\\Local\\Temp\\rust_mozprofileRU1tCw\\search.json.mozlz4", (void 0)))
+1620768431709	Marionette	INFO	Listening on port 54759
+1620768431820	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.coingecko.com/packs/js/application-1362d60e1b8825f7aa35.chunk.js, line 1: TypeError: can't access property "checked", i is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DyQI0nSy6BUFz1wbhNnw1YMoJJCDSr_iJxDmlzQsBeQ.js line 1 > eval line 1451 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DyQI0nSy6BUFz1wbhNnw1YMoJJCDSr_iJxDmlzQsBeQ.js line 1 > eval line 3489 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DyQI0nSy6BUFz1wbhNnw1YMoJJCDSr_iJxDmlzQsBeQ.js line 1 > eval line 5175 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript error: https://static.coingecko.com/packs/js/application-1362d60e1b8825f7aa35.chunk.js, line 1: TypeError: can't access property "checked", i is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DyQI0nSy6BUFz1wbhNnw1YMoJJCDSr_iJxDmlzQsBeQ.js line 1 > eval line 2095 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DyQI0nSy6BUFz1wbhNnw1YMoJJCDSr_iJxDmlzQsBeQ.js line 1 > eval line 3199 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DyQI0nSy6BUFz1wbhNnw1YMoJJCDSr_iJxDmlzQsBeQ.js line 1 > eval line 5142 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1620769029476	geckodriver	INFO	Listening on 127.0.0.1:58954
+1620769032534	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Nightly\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jesse\\AppData\\Local\\Temp\\rust_mozprofileiPHWqd"
+*** You are running in headless mode.
+1620769032992	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jesse\\AppData\\Local\\Temp\\rust_mozprofileiPHWqd\\search.json.mozlz4", (void 0)))
+1620769034351	Marionette	INFO	Listening on port 58984
+1620769034574	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.coingecko.com/packs/js/application-1362d60e1b8825f7aa35.chunk.js, line 1: TypeError: can't access property "checked", i is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DyQI0nSy6BUFz1wbhNnw1YMoJJCDSr_iJxDmlzQsBeQ.js line 1 > eval line 3892 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DyQI0nSy6BUFz1wbhNnw1YMoJJCDSr_iJxDmlzQsBeQ.js line 1 > eval line 4558 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DyQI0nSy6BUFz1wbhNnw1YMoJJCDSr_iJxDmlzQsBeQ.js line 1 > eval line 818 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1620770145155	geckodriver	INFO	Listening on 127.0.0.1:61752
+1620770148188	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Nightly\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jesse\\AppData\\Local\\Temp\\rust_mozprofilejUqAij"
+*** You are running in headless mode.
+1620770148537	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jesse\\AppData\\Local\\Temp\\rust_mozprofilejUqAij\\search.json.mozlz4", (void 0)))
+1620770149720	Marionette	INFO	Listening on port 61765
+1620770150218	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.coingecko.com/packs/js/application-1362d60e1b8825f7aa35.chunk.js, line 1: TypeError: can't access property "checked", i is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DyQI0nSy6BUFz1wbhNnw1YMoJJCDSr_iJxDmlzQsBeQ.js line 1 > eval line 967 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DyQI0nSy6BUFz1wbhNnw1YMoJJCDSr_iJxDmlzQsBeQ.js line 1 > eval line 4886 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DyQI0nSy6BUFz1wbhNnw1YMoJJCDSr_iJxDmlzQsBeQ.js line 1 > eval line 5744 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript error: https://static.coingecko.com/packs/js/application-1362d60e1b8825f7aa35.chunk.js, line 1: TypeError: can't access property "checked", i is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DyQI0nSy6BUFz1wbhNnw1YMoJJCDSr_iJxDmlzQsBeQ.js line 1 > eval line 185 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DyQI0nSy6BUFz1wbhNnw1YMoJJCDSr_iJxDmlzQsBeQ.js line 1 > eval line 123 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript error: https://static.coingecko.com/packs/js/application-1362d60e1b8825f7aa35.chunk.js, line 1: TypeError: can't access property "checked", i is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DyQI0nSy6BUFz1wbhNnw1YMoJJCDSr_iJxDmlzQsBeQ.js line 1 > eval line 6870 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DyQI0nSy6BUFz1wbhNnw1YMoJJCDSr_iJxDmlzQsBeQ.js line 1 > eval line 3973 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript error: https://static.coingecko.com/packs/js/application-1362d60e1b8825f7aa35.chunk.js, line 1: TypeError: can't access property "checked", i is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DyQI0nSy6BUFz1wbhNnw1YMoJJCDSr_iJxDmlzQsBeQ.js line 1 > eval line 602 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DyQI0nSy6BUFz1wbhNnw1YMoJJCDSr_iJxDmlzQsBeQ.js line 1 > eval line 3318 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript error: https://static.coingecko.com/packs/js/application-1362d60e1b8825f7aa35.chunk.js, line 1: TypeError: can't access property "checked", i is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DyQI0nSy6BUFz1wbhNnw1YMoJJCDSr_iJxDmlzQsBeQ.js line 1 > eval line 6763 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DyQI0nSy6BUFz1wbhNnw1YMoJJCDSr_iJxDmlzQsBeQ.js line 1 > eval line 1019 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1620774973539	geckodriver	INFO	Listening on 127.0.0.1:56486
+1620774976569	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Nightly\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jesse\\AppData\\Local\\Temp\\rust_mozprofileBqc9C9"
+*** You are running in headless mode.
+1620774976862	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jesse\\AppData\\Local\\Temp\\rust_mozprofileBqc9C9\\search.json.mozlz4", (void 0)))
+1620774977984	Marionette	INFO	Listening on port 56500
+1620774978116	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.coingecko.com/packs/js/application-1362d60e1b8825f7aa35.chunk.js, line 1: TypeError: can't access property "checked", i is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DyQI0nSy6BUFz1wbhNnw1YMoJJCDSr_iJxDmlzQsBeQ.js line 1 > eval line 3265 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DyQI0nSy6BUFz1wbhNnw1YMoJJCDSr_iJxDmlzQsBeQ.js line 1 > eval line 4750 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DyQI0nSy6BUFz1wbhNnw1YMoJJCDSr_iJxDmlzQsBeQ.js line 1 > eval line 7396 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1620777853026	geckodriver	INFO	Listening on 127.0.0.1:51613
+1620777856060	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Nightly\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jesse\\AppData\\Local\\Temp\\rust_mozprofileoV5CiS"
+*** You are running in headless mode.
+1620777856547	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jesse\\AppData\\Local\\Temp\\rust_mozprofileoV5CiS\\search.json.mozlz4", (void 0)))
+1620777857825	Marionette	INFO	Listening on port 51638
+1620777858092	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.coingecko.com/packs/js/application-1362d60e1b8825f7aa35.chunk.js, line 1: TypeError: can't access property "checked", i is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DyQI0nSy6BUFz1wbhNnw1YMoJJCDSr_iJxDmlzQsBeQ.js line 1 > eval line 4337 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DyQI0nSy6BUFz1wbhNnw1YMoJJCDSr_iJxDmlzQsBeQ.js line 1 > eval line 6685 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript error: https://static.coingecko.com/packs/js/application-1362d60e1b8825f7aa35.chunk.js, line 1: TypeError: can't access property "checked", i is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DyQI0nSy6BUFz1wbhNnw1YMoJJCDSr_iJxDmlzQsBeQ.js line 1 > eval line 4683 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DyQI0nSy6BUFz1wbhNnw1YMoJJCDSr_iJxDmlzQsBeQ.js line 1 > eval line 5145 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript error: https://static.coingecko.com/packs/js/application-1362d60e1b8825f7aa35.chunk.js, line 1: TypeError: can't access property "checked", i is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DyQI0nSy6BUFz1wbhNnw1YMoJJCDSr_iJxDmlzQsBeQ.js line 1 > eval line 2797 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DyQI0nSy6BUFz1wbhNnw1YMoJJCDSr_iJxDmlzQsBeQ.js line 1 > eval line 5742 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript error: https://static.coingecko.com/packs/js/application-1362d60e1b8825f7aa35.chunk.js, line 1: TypeError: can't access property "checked", i is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DyQI0nSy6BUFz1wbhNnw1YMoJJCDSr_iJxDmlzQsBeQ.js line 1 > eval line 5097 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DyQI0nSy6BUFz1wbhNnw1YMoJJCDSr_iJxDmlzQsBeQ.js line 1 > eval line 7131 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1620781592779	geckodriver	INFO	Listening on 127.0.0.1:54639
+1620781595812	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Nightly\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jesse\\AppData\\Local\\Temp\\rust_mozprofile7dbtJg"
+*** You are running in headless mode.
+1620781596114	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jesse\\AppData\\Local\\Temp\\rust_mozprofile7dbtJg\\search.json.mozlz4", (void 0)))
+1620781597195	Marionette	INFO	Listening on port 54647
+1620781597351	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.coingecko.com/packs/js/application-1362d60e1b8825f7aa35.chunk.js, line 1: TypeError: can't access property "checked", i is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DyQI0nSy6BUFz1wbhNnw1YMoJJCDSr_iJxDmlzQsBeQ.js line 1 > eval line 5292 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DyQI0nSy6BUFz1wbhNnw1YMoJJCDSr_iJxDmlzQsBeQ.js line 1 > eval line 3394 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript error: https://static.coingecko.com/packs/js/application-1362d60e1b8825f7aa35.chunk.js, line 1: TypeError: can't access property "checked", i is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DyQI0nSy6BUFz1wbhNnw1YMoJJCDSr_iJxDmlzQsBeQ.js line 1 > eval line 3819 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DyQI0nSy6BUFz1wbhNnw1YMoJJCDSr_iJxDmlzQsBeQ.js line 1 > eval line 1984 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1620782923726	geckodriver	INFO	Listening on 127.0.0.1:55488
+1620782926745	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Nightly\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jesse\\AppData\\Local\\Temp\\rust_mozprofilek2KwrZ"
+*** You are running in headless mode.
+1620782927055	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jesse\\AppData\\Local\\Temp\\rust_mozprofilek2KwrZ\\search.json.mozlz4", (void 0)))
+1620782928052	Marionette	INFO	Listening on port 55496
+1620782928291	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.coingecko.com/packs/js/application-1362d60e1b8825f7aa35.chunk.js, line 1: TypeError: can't access property "checked", i is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DyQI0nSy6BUFz1wbhNnw1YMoJJCDSr_iJxDmlzQsBeQ.js line 1 > eval line 578 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DyQI0nSy6BUFz1wbhNnw1YMoJJCDSr_iJxDmlzQsBeQ.js line 1 > eval line 3642 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1620833432812	geckodriver	INFO	Listening on 127.0.0.1:62073
+1620833435831	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Nightly\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jesse\\AppData\\Local\\Temp\\rust_mozprofileV9ZDO0"
+*** You are running in headless mode.
+1620833436135	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jesse\\AppData\\Local\\Temp\\rust_mozprofileV9ZDO0\\search.json.mozlz4", (void 0)))
+1620833437229	Marionette	INFO	Listening on port 62081
+1620833437373	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.coingecko.com/packs/js/application-8aa60559c609de498f2a.chunk.js, line 1: TypeError: can't access property "checked", i is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TMm5Vd8VytjbCcmIcJumdaM-J7Gy9TN2HX45D5FEMFw.js line 1 > eval line 3006 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VUb54HSrcJlfDt76-zYSNvHYPadoqD5ysjWH2aTGPz8.js line 1 > eval line 7517 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript error: https://static.coingecko.com/packs/js/application-8aa60559c609de498f2a.chunk.js, line 1: TypeError: can't access property "checked", i is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TMm5Vd8VytjbCcmIcJumdaM-J7Gy9TN2HX45D5FEMFw.js line 1 > eval line 393 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VUb54HSrcJlfDt76-zYSNvHYPadoqD5ysjWH2aTGPz8.js line 1 > eval line 2143 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript error: https://static.coingecko.com/packs/js/application-8aa60559c609de498f2a.chunk.js, line 1: TypeError: can't access property "checked", i is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TMm5Vd8VytjbCcmIcJumdaM-J7Gy9TN2HX45D5FEMFw.js line 1 > eval line 95 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VUb54HSrcJlfDt76-zYSNvHYPadoqD5ysjWH2aTGPz8.js line 1 > eval line 4329 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+Exiting due to channel error.
+Exiting due to channel error.
+1620834504596	geckodriver	INFO	Listening on 127.0.0.1:50551
+1620834507636	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Nightly\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jesse\\AppData\\Local\\Temp\\rust_mozprofilerFu3fd"
+*** You are running in headless mode.
+1620834507999	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jesse\\AppData\\Local\\Temp\\rust_mozprofilerFu3fd\\search.json.mozlz4", (void 0)))
+1620834509037	Marionette	INFO	Listening on port 50559
+1620834509179	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620834572058	geckodriver	INFO	Listening on 127.0.0.1:50612
+1620834575078	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Nightly\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jesse\\AppData\\Local\\Temp\\rust_mozprofileids78Z"
+*** You are running in headless mode.
+1620834575372	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jesse\\AppData\\Local\\Temp\\rust_mozprofileids78Z\\search.json.mozlz4", (void 0)))
+1620834576330	Marionette	INFO	Listening on port 50620
+1620834576606	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620834628675	geckodriver	INFO	Listening on 127.0.0.1:50671
+1620834631700	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Nightly\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jesse\\AppData\\Local\\Temp\\rust_mozprofileiLSncJ"
+*** You are running in headless mode.
+1620834632050	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jesse\\AppData\\Local\\Temp\\rust_mozprofileiLSncJ\\search.json.mozlz4", (void 0)))
+1620834633039	Marionette	INFO	Listening on port 50679
+1620834633228	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620834655174	geckodriver	INFO	Listening on 127.0.0.1:50730
+1620834658207	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Nightly\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jesse\\AppData\\Local\\Temp\\rust_mozprofilevaFqoU"
+*** You are running in headless mode.
+1620834658493	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jesse\\AppData\\Local\\Temp\\rust_mozprofilevaFqoU\\search.json.mozlz4", (void 0)))
+1620834659463	Marionette	INFO	Listening on port 50738
+1620834659760	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.coingecko.com/packs/js/application-8aa60559c609de498f2a.chunk.js, line 1: TypeError: can't access property "checked", i is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TMm5Vd8VytjbCcmIcJumdaM-J7Gy9TN2HX45D5FEMFw.js line 1 > eval line 5325 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VUb54HSrcJlfDt76-zYSNvHYPadoqD5ysjWH2aTGPz8.js line 1 > eval line 3213 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1620834774064	geckodriver	INFO	Listening on 127.0.0.1:51236
+1620834777091	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Nightly\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jesse\\AppData\\Local\\Temp\\rust_mozprofileVTKhdT"
+*** You are running in headless mode.
+1620834777380	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jesse\\AppData\\Local\\Temp\\rust_mozprofileVTKhdT\\search.json.mozlz4", (void 0)))
+1620834778341	Marionette	INFO	Listening on port 51244
+1620834778622	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620834849835	geckodriver	INFO	Listening on 127.0.0.1:51359
+1620834852857	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Nightly\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jesse\\AppData\\Local\\Temp\\rust_mozprofileUmsYhs"
+*** You are running in headless mode.
+1620834853143	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jesse\\AppData\\Local\\Temp\\rust_mozprofileUmsYhs\\search.json.mozlz4", (void 0)))
+1620834854137	Marionette	INFO	Listening on port 51367
+1620834854391	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.coingecko.com/packs/js/application-8aa60559c609de498f2a.chunk.js, line 1: TypeError: can't access property "checked", i is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TMm5Vd8VytjbCcmIcJumdaM-J7Gy9TN2HX45D5FEMFw.js line 1 > eval line 3651 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VUb54HSrcJlfDt76-zYSNvHYPadoqD5ysjWH2aTGPz8.js line 1 > eval line 4554 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1620834876688	geckodriver	INFO	Listening on 127.0.0.1:51588
+1620834879719	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Nightly\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jesse\\AppData\\Local\\Temp\\rust_mozprofilebudkSG"
+*** You are running in headless mode.
+1620834880006	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jesse\\AppData\\Local\\Temp\\rust_mozprofilebudkSG\\search.json.mozlz4", (void 0)))
+1620834880975	Marionette	INFO	Listening on port 51596
+1620834881246	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.coingecko.com/packs/js/application-8aa60559c609de498f2a.chunk.js, line 1: TypeError: can't access property "checked", i is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TMm5Vd8VytjbCcmIcJumdaM-J7Gy9TN2HX45D5FEMFw.js line 1 > eval line 5310 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TMm5Vd8VytjbCcmIcJumdaM-J7Gy9TN2HX45D5FEMFw.js line 1 > eval line 4356 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VUb54HSrcJlfDt76-zYSNvHYPadoqD5ysjWH2aTGPz8.js line 1 > eval line 1653 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1620834958015	geckodriver	INFO	Listening on 127.0.0.1:51871
+1620834961042	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Nightly\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jesse\\AppData\\Local\\Temp\\rust_mozprofile18WsRN"
+*** You are running in headless mode.
+1620834961328	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jesse\\AppData\\Local\\Temp\\rust_mozprofile18WsRN\\search.json.mozlz4", (void 0)))
+1620834962327	Marionette	INFO	Listening on port 51879
+1620834962581	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.coingecko.com/packs/js/application-8aa60559c609de498f2a.chunk.js, line 1: TypeError: can't access property "checked", i is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TMm5Vd8VytjbCcmIcJumdaM-J7Gy9TN2HX45D5FEMFw.js line 1 > eval line 4508 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VUb54HSrcJlfDt76-zYSNvHYPadoqD5ysjWH2aTGPz8.js line 1 > eval line 4862 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1620835006070	geckodriver	INFO	Listening on 127.0.0.1:52100
+1620835009101	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Nightly\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jesse\\AppData\\Local\\Temp\\rust_mozprofileYGHdmF"
+*** You are running in headless mode.
+1620835009390	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jesse\\AppData\\Local\\Temp\\rust_mozprofileYGHdmF\\search.json.mozlz4", (void 0)))
+1620835010405	Marionette	INFO	Listening on port 52108
+1620835010627	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.coingecko.com/packs/js/application-8aa60559c609de498f2a.chunk.js, line 1: TypeError: can't access property "checked", i is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TMm5Vd8VytjbCcmIcJumdaM-J7Gy9TN2HX45D5FEMFw.js line 1 > eval line 2746 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VUb54HSrcJlfDt76-zYSNvHYPadoqD5ysjWH2aTGPz8.js line 1 > eval line 7453 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1620835189453	geckodriver	INFO	Listening on 127.0.0.1:52694
+1620835192500	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Nightly\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jesse\\AppData\\Local\\Temp\\rust_mozprofile6EXrWl"
+*** You are running in headless mode.
+1620835192782	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jesse\\AppData\\Local\\Temp\\rust_mozprofile6EXrWl\\search.json.mozlz4", (void 0)))
+1620835193832	Marionette	INFO	Listening on port 52702
+1620835194025	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.coingecko.com/packs/js/application-8aa60559c609de498f2a.chunk.js, line 1: TypeError: can't access property "checked", i is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TMm5Vd8VytjbCcmIcJumdaM-J7Gy9TN2HX45D5FEMFw.js line 1 > eval line 3355 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VUb54HSrcJlfDt76-zYSNvHYPadoqD5ysjWH2aTGPz8.js line 1 > eval line 2811 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TMm5Vd8VytjbCcmIcJumdaM-J7Gy9TN2HX45D5FEMFw.js line 1 > eval line 4587 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1620835266708	geckodriver	INFO	Listening on 127.0.0.1:53061
+1620835269733	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Nightly\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jesse\\AppData\\Local\\Temp\\rust_mozprofileAiWH3a"
+*** You are running in headless mode.
+1620835270022	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jesse\\AppData\\Local\\Temp\\rust_mozprofileAiWH3a\\search.json.mozlz4", (void 0)))
+1620835271012	Marionette	INFO	Listening on port 53069
+1620835271278	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.coingecko.com/packs/js/application-8aa60559c609de498f2a.chunk.js, line 1: TypeError: can't access property "checked", i is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TMm5Vd8VytjbCcmIcJumdaM-J7Gy9TN2HX45D5FEMFw.js line 1 > eval line 5044 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VUb54HSrcJlfDt76-zYSNvHYPadoqD5ysjWH2aTGPz8.js line 1 > eval line 4930 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript error: https://static.coingecko.com/packs/js/application-8aa60559c609de498f2a.chunk.js, line 1: TypeError: can't access property "checked", i is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TMm5Vd8VytjbCcmIcJumdaM-J7Gy9TN2HX45D5FEMFw.js line 1 > eval line 6086 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VUb54HSrcJlfDt76-zYSNvHYPadoqD5ysjWH2aTGPz8.js line 1 > eval line 4517 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript error: https://static.coingecko.com/packs/js/application-8aa60559c609de498f2a.chunk.js, line 1: TypeError: can't access property "checked", i is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TMm5Vd8VytjbCcmIcJumdaM-J7Gy9TN2HX45D5FEMFw.js line 1 > eval line 454 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VUb54HSrcJlfDt76-zYSNvHYPadoqD5ysjWH2aTGPz8.js line 1 > eval line 3076 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TMm5Vd8VytjbCcmIcJumdaM-J7Gy9TN2HX45D5FEMFw.js line 1 > eval line 1290 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1620835550753	geckodriver	INFO	Listening on 127.0.0.1:54014
+1620835553778	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Nightly\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jesse\\AppData\\Local\\Temp\\rust_mozprofileiIzVUU"
+*** You are running in headless mode.
+1620835554069	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jesse\\AppData\\Local\\Temp\\rust_mozprofileiIzVUU\\search.json.mozlz4", (void 0)))
+1620835555063	Marionette	INFO	Listening on port 54023
+1620835555302	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.coingecko.com/packs/js/application-8aa60559c609de498f2a.chunk.js, line 1: TypeError: can't access property "checked", i is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TMm5Vd8VytjbCcmIcJumdaM-J7Gy9TN2HX45D5FEMFw.js line 1 > eval line 5945 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TMm5Vd8VytjbCcmIcJumdaM-J7Gy9TN2HX45D5FEMFw.js line 1 > eval line 5694 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VUb54HSrcJlfDt76-zYSNvHYPadoqD5ysjWH2aTGPz8.js line 1 > eval line 1317 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1620835733493	geckodriver	INFO	Listening on 127.0.0.1:54444
+1620835736545	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Nightly\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jesse\\AppData\\Local\\Temp\\rust_mozprofileDZyvoF"
+*** You are running in headless mode.
+1620835736840	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jesse\\AppData\\Local\\Temp\\rust_mozprofileDZyvoF\\search.json.mozlz4", (void 0)))
+1620835737986	Marionette	INFO	Listening on port 54452
+1620835738096	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.coingecko.com/packs/js/application-8aa60559c609de498f2a.chunk.js, line 1: TypeError: can't access property "checked", i is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TMm5Vd8VytjbCcmIcJumdaM-J7Gy9TN2HX45D5FEMFw.js line 1 > eval line 4881 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VUb54HSrcJlfDt76-zYSNvHYPadoqD5ysjWH2aTGPz8.js line 1 > eval line 2982 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TMm5Vd8VytjbCcmIcJumdaM-J7Gy9TN2HX45D5FEMFw.js line 1 > eval line 6808 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
