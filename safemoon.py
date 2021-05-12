@@ -236,7 +236,8 @@ class Ui(QMainWindow):
     def texts1(self, data):
         if isinstance(self.price, float):
             value = round(float(data) * float(self.price),2)
-            self.label_6.setText(str(round(float(data),3)) + ' SafeMoon/Reflection' + '  ($' + str(format(float(value),",")) + ')')
+            value2 = round(float(data),3)
+            self.label_6.setText(str(format(float(value),",")) + ' SafeMoon/Reflection' + '  ($' + str(format(float(value),",")) + ')')
         else:
             self.label_5.setText(data + ' SafeMoon')
 
